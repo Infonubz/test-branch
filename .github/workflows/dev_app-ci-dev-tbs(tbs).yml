@@ -59,4 +59,4 @@ jobs:
           app-name: 'app-ci-dev-tbs'
           slot-name: 'tbs'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BCE9AA2A07584541BB7844C27B37348D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2A381E6204F74A59A27C34A396B71EB6 }}
